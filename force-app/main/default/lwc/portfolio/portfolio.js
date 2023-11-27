@@ -1,5 +1,5 @@
 import { LightningElement,wire,api } from 'lwc';
-import pictures from '@salesforce/resourceUrl/userpic'
+import pictures from '@salesforce/resourceUrl/Nazirpic'
 import PortfolioAssets from '@salesforce/resourceUrl/PortfolioAssets'
 import { getRecord } from "lightning/uiRecordApi";
 import PORTFOLIO_OBJECT from '@salesforce/schema/Portfolio__c';
